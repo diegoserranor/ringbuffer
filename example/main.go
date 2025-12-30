@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/esferadigital/ringbuffer"
+	"github.com/diegoserranor/ringbuffer"
 )
 
 func main() {
